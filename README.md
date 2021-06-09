@@ -1,4 +1,4 @@
-# DevOps_Interview_Preparation
+# DevOps Interview Preparation
 
 ## What are the four key benifits of DevOps and how can we utilise them
 
